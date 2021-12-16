@@ -1,2 +1,2 @@
 # Cyclogenesis_counting
-This program counts cyclogenesis over a given domain, using a pressure or vorticity criterion.
+Program to count cyclogenesis over a given domain, using a pressure and/or vorticity criterion.
