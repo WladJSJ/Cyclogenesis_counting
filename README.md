@@ -16,7 +16,7 @@ Os arquivos de entrada (netcdf) estão numa grade regular de 2.5x2.5 graus. São
 dados podem ser utilizadas, fazendo-se as adaptações necessárias.
 
 Os arquivos tem a seguinte estrutura em seu nome:
-prmsl.l.gdas.ANOMES.grb2.nc
+prmsl.l.gdas.{ANO}{MES}.grb2.nc
 Exemplo:
 prmsl.l.gdas.198001.grb2.nc
 
