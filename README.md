@@ -15,4 +15,9 @@ Ambos os critérios podem ser utilizados concomitantemente, e o ponto de detecç
 Os arquivos de entrada (netcdf) estão numa grade regular de 2.5x2.5 graus. São arquivos mensais, com time-step de 6h. Outros tipo de arquivo e/ou estrutura dos
 dados podem ser utilizadas, fazendo-se as adaptações necessárias.
 
+Os arquivos tem a seguinte estrutura em seu nome:
+prmsl.l.gdas.ANOMES.grb2.nc
+Exemplo:
+prmsl.l.gdas.198001.grb2.nc
+
 Divirtam-se
