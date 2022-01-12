@@ -1,6 +1,6 @@
 # Cyclogenesis_counting
 
-Esse script faz a detecção de ciclogênese (formação de um ciclone) presentes nas reanálises do CFSR (pode ser facilmente adaptado para qq outra reanálise).
+Este script faz a detecção de ciclogênese (formação de um ciclone) observada nas reanálises do CFSR (pode ser facilmente adaptado para qq outra reanálise).
 
 A detecção pode ser feita por dois critérios:
 1) Vorticidade relativa em 825hPa (mais usual):
